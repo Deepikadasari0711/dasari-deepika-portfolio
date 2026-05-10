@@ -21,8 +21,8 @@ export function Contact() {
           <a href={profile.linkedin} target="_blank" rel="noreferrer">
             <FiLinkedin /> LinkedIn
           </a>
-          <a href={profile.github}>
-            <FiGithub /> GitHub coming soon
+          <a href={profile.github} target="_blank" rel="noreferrer">
+            <FiGithub /> GitHub
           </a>
           <span>
             <FiMapPin /> {profile.location}

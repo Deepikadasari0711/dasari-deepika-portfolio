@@ -32,7 +32,7 @@ export function Header() {
         <a href={profile.linkedin} target="_blank" rel="noreferrer" aria-label="LinkedIn profile">
           <FiLinkedin />
         </a>
-        <a href={profile.github} aria-label="GitHub profile">
+        <a href={profile.github} target="_blank" rel="noreferrer" aria-label="GitHub profile">
           <FiGithub />
         </a>
         <SoundToggle />
@@ -58,7 +58,7 @@ export function Header() {
           <a href={profile.linkedin} target="_blank" rel="noreferrer" onClick={() => setIsMenuOpen(false)}>
             LinkedIn
           </a>
-          <a href={profile.github} onClick={() => setIsMenuOpen(false)}>
+          <a href={profile.github} target="_blank" rel="noreferrer" onClick={() => setIsMenuOpen(false)}>
             GitHub
           </a>
         </div>

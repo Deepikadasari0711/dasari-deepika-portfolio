@@ -15,7 +15,7 @@ export const profile = {
   email: "dasarideepika2018@gmail.com",
   phone: "+91 82477 06811",
   linkedin: "https://www.linkedin.com/in/dasari-deepika/",
-  github: "#",
+  github: "https://github.com/Deepikadasari0711",
   resume: "/assets/resume/Dasari_Deepika_Resume_Updated.pdf",
   summary:
     "Frontend Engineer with 2+ years of experience building responsive web and mobile applications across React.js, TypeScript, Next.js, and React Native. Strong in reusable component development, API integration, state management, accessibility, and performance-focused UI delivery.",
@@ -137,7 +137,7 @@ export const strengths: Strength[] = [
 
 export const education = {
   degree: "B.E. - Computer Science",
-  institution: "JNTUH affiliated College, Hyderabad",
+  institution: "Lovely Professional University, Punjab",
   year: "2023",
   certifications: ["Full-Stack React Development - Udemy", "Firebase & Firestore Fundamentals"],
 };

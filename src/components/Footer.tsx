@@ -12,7 +12,7 @@ export function Footer() {
         <a href={profile.linkedin} target="_blank" rel="noreferrer">
           <FiLinkedin /> LinkedIn
         </a>
-        <a href={profile.github}>
+        <a href={profile.github} target="_blank" rel="noreferrer">
           <FiGithub /> GitHub
         </a>
         <a href={`mailto:${profile.email}`}>
