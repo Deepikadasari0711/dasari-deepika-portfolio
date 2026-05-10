@@ -16,7 +16,7 @@ export const profile = {
   phone: "+91 82477 06811",
   linkedin: "https://www.linkedin.com/in/dasari-deepika/",
   github: "#",
-  resume: "/assets/resume/Dasari_Deepika_Resume.pdf",
+  resume: "/assets/resume/Dasari_Deepika_Resume_Updated.pdf",
   summary:
     "Frontend Engineer with 2+ years of experience building responsive web and mobile applications across React.js, TypeScript, Next.js, and React Native. Strong in reusable component development, API integration, state management, accessibility, and performance-focused UI delivery.",
 };
