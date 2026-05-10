@@ -3,7 +3,7 @@ import { FiArrowDown, FiDownload, FiMail } from "react-icons/fi";
 import { heroMetrics, profile } from "../data/portfolio";
 import { HeroProfilePhoto } from "./HeroProfilePhoto";
 
-const stack = ["React", "TypeScript", "Next.js", "React Native", "Redux", "Firebase"];
+const stack = ["React", "TypeScript", "JavaScript", "React Native", "Redux", "Firebase"];
 
 export function Hero() {
   return (

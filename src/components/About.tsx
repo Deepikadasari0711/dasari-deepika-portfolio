@@ -20,7 +20,7 @@ export function About() {
         <motion.article className="glass-card about-card" initial={{ opacity: 0, y: 24 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
           <p>
             I have 2+ years of experience building scalable web and mobile interfaces with React.js, TypeScript,
-            Next.js, and React Native. My work sits close to real product delivery: booking flows, menu selection,
+            and React Native. My work sits close to real product delivery: booking flows, menu selection,
             live updates, API integrations, reusable components, and responsive layouts that need to work smoothly
             across devices.
           </p>

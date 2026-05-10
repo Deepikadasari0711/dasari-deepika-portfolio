@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="site-footer">
       <div>
         <strong>Dasari Deepika</strong>
-        <p>Frontend Engineer - React, TypeScript, Next.js, React Native</p>
+        <p>Frontend Engineer - React, TypeScript, React Native</p>
       </div>
       <div className="footer-links">
         <a href={profile.linkedin} target="_blank" rel="noreferrer">

@@ -16,9 +16,9 @@ export const profile = {
   phone: "+91 82477 06811",
   linkedin: "https://www.linkedin.com/in/dasari-deepika/",
   github: "https://github.com/Deepikadasari0711",
-  resume: "/assets/resume/Dasari_Deepika_Resume_Updated.pdf",
+  resume: "/assets/resume/Dasari_Deepika_Resume_Final.pdf",
   summary:
-    "Frontend Engineer with 2+ years of experience building responsive web and mobile applications across React.js, TypeScript, Next.js, and React Native. Strong in reusable component development, API integration, state management, accessibility, and performance-focused UI delivery.",
+    "Frontend Engineer with 2+ years of experience building responsive web and mobile applications across React.js, TypeScript, and React Native. Strong in reusable component development, API integration, state management, accessibility, and performance-focused UI delivery.",
 };
 
 export const heroMetrics = [
@@ -30,7 +30,7 @@ export const heroMetrics = [
 export const skillGroups: SkillGroup[] = [
   {
     title: "Frontend",
-    skills: ["React.js", "TypeScript", "Next.js", "React Native", "JavaScript ES6+", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+    skills: ["React.js", "TypeScript", "React Native", "JavaScript ES6+", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
   },
   {
     title: "Architecture",
@@ -54,11 +54,11 @@ export const experiences: ExperienceItem[] = [
     location: "Hyderabad, India",
     highlights: [
       "Built and maintained frontend features across Customer Web, Customer Android, Partner Android, and Admin Panel product surfaces.",
-      "Developed reusable UI components and modular structures with React.js, TypeScript, Next.js, and React Native.",
+      "Developed reusable UI components and modular structures with React.js, TypeScript, and React Native.",
       "Integrated Swagger-documented REST APIs, Firestore real-time sync, and Firebase Cloud Messaging for live product flows.",
       "Improved interface responsiveness with lazy loading, memoization, code splitting, browser debugging, and cross-device refinement.",
     ],
-    tech: ["React.js", "TypeScript", "Next.js", "React Native", "Redux", "Firebase", "REST APIs"],
+    tech: ["React.js", "TypeScript", "React Native", "Redux", "Firebase", "REST APIs"],
   },
   {
     company: "Saanvika Software Solutions",
@@ -86,7 +86,7 @@ export const projects: Project[] = [
       "Contributed frontend implementation across customer-facing web/mobile experiences, reusable UI modules, API-connected flows, state management, and performance-focused delivery.",
     impact:
       "Helped ship a production product ecosystem with responsive interfaces, real-time service behavior, and maintainable frontend structures for faster feature iteration.",
-    tech: ["React.js", "TypeScript", "Next.js", "React Native", "Redux", "REST APIs", "Firebase", "Firestore", "FCM"],
+    tech: ["React.js", "TypeScript", "React Native", "Redux", "REST APIs", "Firebase", "Firestore", "FCM"],
     links: [
       { label: "Customer Web", href: "https://customer.bookmychef.app/" },
       { label: "Customer App", href: "https://play.google.com/store/apps/details?id=com.bookmychef.userapp" },
@@ -125,7 +125,7 @@ export const strengths: Strength[] = [
   },
   {
     title: "Cross-Platform Thinking",
-    description: "Works across web and mobile frontend surfaces using React, Next.js, TypeScript, and React Native.",
+    description: "Works across web and mobile frontend surfaces using React, TypeScript, and React Native.",
     icon: FiCpu,
   },
   {
